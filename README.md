@@ -1,0 +1,1 @@
+Esse projeto faz parte do Curso de HTML5 e CSS3 da Alura em parceria com a Oracle. O objetivo é fazer um site da Barbearia Alura aplicando o que há de mais moderno na construção e estruturação de uma página Web. Deixando a página acessível e responsiva.
